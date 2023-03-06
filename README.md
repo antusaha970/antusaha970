@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antu Saha</h1>
 <h3 align="center">I'm a Full-Stack web devoloper and Programmer</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **C++,C, DSA**
+- 💬 Ask me about **HTML5,CSS3,React,JavaScript,MongoDb,Node.Js,C++,DSA**
 
 - 📫 How to reach me **antusaha970@gmail.com**
 
