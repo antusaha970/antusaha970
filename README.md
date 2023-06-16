@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Antu Saha</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=Fullstack+Developer;Programmer)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Full Stack Development**
