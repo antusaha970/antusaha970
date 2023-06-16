@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antu Saha</h1>
-<h3 align="center">I'm a Full-Stack web devoloper and Programmer</h3>
+<h3 align="center">I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=full+stack+developer+programmer)](https://git.io/typing-svg)
+</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
