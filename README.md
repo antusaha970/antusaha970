@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **HTML5,CSS3,React,JavaScript,MongoDb,Node.Js,C++,DSA**
+- 💬 Ask me about **React, JavaScript, MongoDB, Node.Js, Next.js, C++, DSA**
 
 - 📫 How to reach me **antusaha970@gmail.com**
 
