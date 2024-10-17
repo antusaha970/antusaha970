@@ -1,3 +1,4 @@
+![Banner Image](./imgs/banner.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&color=36ECF7&width=435&lines=Fullstack+Developer;Programmer)](https://git.io/typing-svg)
 
 
